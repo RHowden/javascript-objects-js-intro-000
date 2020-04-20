@@ -1,1 +1,1 @@
-playlist = {a; b}
+playlist = {a: b}
